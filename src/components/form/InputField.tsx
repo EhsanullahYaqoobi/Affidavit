@@ -27,4 +27,4 @@ export const InputField: React.FC<{
         )}
       </div>
     );
-  };
+  }
